@@ -1,0 +1,9 @@
+C:\Users\utilisateur\Documents\_JEUX\Crossroadz\v3.0\Crossroadz3.0\Crossroadz3.0\bin\Release\Crossroadz3.exe.config
+C:\Users\utilisateur\Documents\_JEUX\Crossroadz\v3.0\Crossroadz3.0\Crossroadz3.0\bin\Release\Crossroadz3.exe
+C:\Users\utilisateur\Documents\_JEUX\Crossroadz\v3.0\Crossroadz3.0\Crossroadz3.0\bin\Release\Crossroadz3.pdb
+C:\Users\utilisateur\Documents\_JEUX\Crossroadz\v3.0\Crossroadz3.0\Crossroadz3.0\obj\Release\Crossroadz3.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Documents\_JEUX\Crossroadz\v3.0\Crossroadz3.0\Crossroadz3.0\obj\Release\Crossroadz3.exe
+C:\Users\utilisateur\Documents\_JEUX\Crossroadz\v3.0\Crossroadz3.0\Crossroadz3.0\obj\Release\Crossroadz3.pdb
+C:\Users\utilisateur\Documents\_JEUX\Crossroadz\Projet 3.0\Crossroadz3.0\Crossroadz3.0\bin\Release\Crossroadz3.exe.config
+C:\Users\utilisateur\Documents\_JEUX\Crossroadz\Projet 3.0\Crossroadz3.0\Crossroadz3.0\obj\Release\Crossroadz3.exe
+C:\Users\utilisateur\Documents\_JEUX\Crossroadz\Projet 3.0\Crossroadz3.0\Crossroadz3.0\obj\Release\Crossroadz3.pdb

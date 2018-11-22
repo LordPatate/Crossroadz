@@ -1,0 +1,6 @@
+C:\Users\utilisateur\Documents\_JEUX\Crossroadz\v3.0\Crossroadz3.0\Crossroadz3.0\obj\Debug\Crossroadz3.csprojResolveAssemblyReference.cache
+C:\Users\utilisateur\Documents\_JEUX\Crossroadz\v3.0\Crossroadz3.0\Crossroadz3.0\bin\Debug\Crossroadz3.exe.config
+C:\Users\utilisateur\Documents\_JEUX\Crossroadz\v3.0\Crossroadz3.0\Crossroadz3.0\bin\Debug\Crossroadz3.exe
+C:\Users\utilisateur\Documents\_JEUX\Crossroadz\v3.0\Crossroadz3.0\Crossroadz3.0\bin\Debug\Crossroadz3.pdb
+C:\Users\utilisateur\Documents\_JEUX\Crossroadz\v3.0\Crossroadz3.0\Crossroadz3.0\obj\Debug\Crossroadz3.exe
+C:\Users\utilisateur\Documents\_JEUX\Crossroadz\v3.0\Crossroadz3.0\Crossroadz3.0\obj\Debug\Crossroadz3.pdb
